@@ -1,0 +1,27 @@
+language: en-US
+
+reviews:
+  profile: chill                # friendlier tone
+  high_level_summary: true      # adds a PR summary into the description
+  auto_review:
+    enabled: true               # auto-review every PR
+    drafts: false               # skip draft PRs
+  path_filters:
+    - "!**/*.ipynb"             # ignore notebooks (optional)
+    - "!**/*.csv"               # ignore data files (optional)
+  tools:
+    ruff:                       # Python linter/formatter
+      enabled: true
+    gitleaks:                   # secret scanner
+      enabled: true
+
+chat:
+  auto_reply: true
+
+knowledge_base:
+  opt_out: false
+
+code_generation:
+  docstrings:
+    language: en-US
+
