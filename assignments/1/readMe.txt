@@ -26,4 +26,24 @@ OBJECTID	SHAPE_LENG	SHAPE_AREA	ZONE	LOCATIONID	BOROUGH	CPU
 
 TODO:
 1. Why payment_type only 1
-2. 
+
+
+Build issues:
+  647  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/assignments/1/taxi.py
+  648  source /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/activate
+  649  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/vectors/dotProduct.py
+  650  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/oops/temperature.py
+  651  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/assignments/1/taxi.py
+  652  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python -m pip install matplotlib\n
+  653  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/assignments/1/taxi.py
+  654  pip3 install seaborn
+  655  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python -m pip install seaborn\n
+  656  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/assignments/1/taxi.py
+  657  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python -m pip install geopandas\n
+  658  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/assignments/1/taxi.py
+  659  pip install pyarrow\n
+  660  pip3 install pyarrow
+  661  source /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/activate\n
+  662  python -m pip install pyarrow\n
+  663  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python -m pip install pyarrow\n
+  664  /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/env/bin/python /Users/bhavukmathur/Documents/workspace-spring-tools-for-eclipse-4.30.0.RELEASE/python/assignments/1/taxi.py
