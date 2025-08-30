@@ -1,0 +1,25 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# --- Python virtual environments ---
+env/
+venv/
+
+# Sometimes venv creates these top-level folders too
+bin/
+lib/
+include/
+share/
+
+# --- Python cache & compiled files ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Jupyter notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- IDE/editor specific ---
+.vscode/
+.idea/
+*.swp
+
