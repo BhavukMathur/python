@@ -5,6 +5,10 @@ on:
     branches:
       - main   # Trigger only when commits are pushed to main
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   create-pr:
     runs-on: ubuntu-latest
